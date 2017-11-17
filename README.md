@@ -5,7 +5,7 @@ Implemented in non-purist but yet cool way.
 
 Pull requests will be gladly accepted, if you have suggestions.
 
-## Build
+## Build
 
 `g++ AoAHW2ApplicationDelegate.cpp IO/Parser.cpp Bootstrapping/Application.cpp Models/Line.cpp Models/SemanticWord.cpp Strategies/DeterministicQuickSortStrategy.cpp Strategies/LineCountedQuickSortStrategy.cpp Strategies/RandomizedQuickSortStrategy.cpp Supporting\ Files/main.cpp -std=c++11 -Wall -O3 -o main`
 
